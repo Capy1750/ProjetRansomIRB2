@@ -20,6 +20,7 @@ int send_key(char *pKey, char *pIv);
 int main (int argc, char * argv[])
 {
 	printf("Bon travail!\n");
+	printf("zizi\n");
 }
 
 
